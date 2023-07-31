@@ -20,15 +20,7 @@ const Header = () => {
         }}
       >
         <button onClick={handleBackClick} style={{backgroundColor:'#03123D',border:'none'}}>
-        <img
-       src="Image 6.png"
-       alt="Logo"
-        style={{
-        width: '72px',
-        height: '36px',
-        
-  }}
-/>
+        <img src="Image 6.png" alt="Logo"style={{width: '72px',height: '36px',}}/>
         </button>
        
         <div
